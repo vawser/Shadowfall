@@ -1,3 +1,8 @@
 #---------------------------
 # Changelog Summary
 #---------------------------
+- You now start in the Shadowfall.
+- Torrent may be befriended by interacting with him nearby the the first grace.
+
+m61_46_40_00
+2046402020
