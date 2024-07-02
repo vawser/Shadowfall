@@ -11,4 +11,4 @@ Marika's failure and Miquella's ascension to godhood have awoken the once dorman
 # Event Flags:
 1029550000
 
-1029550010 Torrent Befriended
+1031390000 Torrent Befriended

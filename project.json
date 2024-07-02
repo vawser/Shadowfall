@@ -2,7 +2,10 @@
   "ProjectName": "Shadowfall",
   "GameRoot": "F:\\SteamLibrary\\steamapps\\common\\ELDEN RING\\Game",
   "GameType": 8,
-  "PinnedParams": [],
+  "PinnedParams": [
+    "ReinforceParamWeapon",
+    "EquipParamWeapon"
+  ],
   "PinnedRows": {},
   "PinnedFields": {},
   "UseLooseParams": false,
