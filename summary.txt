@@ -7,19 +7,15 @@
 - Removed the Shadow Realm Blessing and Revered Spirit Ash Blessing options.
 - Removed Scadutree Blessings (replaced with Golden Seeds).
 - Removed Revered Spirit Blessings (replaced with Sacred Tears).
+- Flask of Wonderous Physick placed near Three-Path Cross.
 
 # Start Map
 m61_46_40_00
 2046402020
 
 # TODO:
-Place Wondrous Physick
- 2700 - 6700 # Wondrous Physick
- - Place all vanilla tears in Shadowfall
- 
-Place Spirit Calling Bel
- 8158 - 103900 # Spirit Calling Bell
- - All spirit summons will become consumable items
+- Place all vanilla tears in Shadowfall
+- All spirit summons will become consumable items
  
 Place Crafting Kit
  8500 - 2800 # Crafting Kit
@@ -30,10 +26,6 @@ Place Whetstone Knife - 2810
  8974 - 65720 # Black Whetblade
  8973 - 65680 # Glintstone Whetblade
  8971 - 65640 # Red-Hot Whetblade
- 
-Place Tailoring Tools
- 8163 - 60140 # Tailoring Tools
- 8188 - 60150 # Golden Tailoring Tools
  
 Place Tarnished Wizened Finger
 Place Tarnished Furled Finger
