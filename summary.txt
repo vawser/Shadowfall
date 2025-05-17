@@ -1,0 +1,82 @@
+#---------------------------
+# Changelog Summary
+#---------------------------
+- You now start in the Shadowfall.
+- Torrent may be befriended by interacting with him nearby the the first grace.
+- Added "Access Smithbox" option to the grace menu: allows the player to reinforce or duplicate ashes of war.
+- Removed the Shadow Realm Blessing and Revered Spirit Ash Blessing options.
+- Removed Scadutree Blessings (replaced with Golden Seeds).
+- Removed Revered Spirit Blessings (replaced with Sacred Tears).
+- Flask of Wonderous Physick placed near Three-Path Cross.
+
+# Start Map
+m61_46_40_00
+2046402020
+
+# TODO:
+- Place all vanilla tears in Shadowfall
+- All spirit summons will become consumable items
+ 
+Place Crafting Kit
+ 8500 - 2800 # Crafting Kit
+
+Place Whetstone Knife - 2810
+ 8972 - 65660 # Sanctified Whetblade
+ 8974 - 65720 # Black Whetblade
+ 8973 - 65680 # Glintstone Whetblade
+ 8971 - 65640 # Red-Hot Whetblade
+ 
+Place Tarnished Wizened Finger
+Place Tarnished Furled Finger
+Place Duelist's Furled Giner
+
+Assign shop place to: 
+ - White Cipher RIng
+ - Taunter's Tongue
+ - Finger Severer
+ 
+Place Memory Stones
+ - 0 to 7
+ 
+Place Talisman Pouches
+ - 0 to 2
+ 60500
+ 60510
+ 60520
+ 
+Place vanilla Ash of War treasures
+ - Move of treasure and shop
+ 
+Place Cracked Pots
+ - 1 to 20
+ 
+Place Ritual Pots
+ - 1 to 10
+ 
+Place Perfume Bottle
+ - 1 to 10
+ 
+Simplfy Cookbooks (use top most vanilla flag):
+ - Nomadic Warrior's Cookbook
+ - Armorer's Cookbook
+ - Glintstone Craftsman's Cookbook
+ - Missionary's Cookbook
+ - Ancient Dragon Apostle's Cookbook
+ - Perfumer's Cookbook
+ - Fevor's Cookbook
+ - Frenzied Cookbook
+ - St. Trina Disciple's Cookbook
+ - Grave Keeper's Cookbook
+ - Battlefield Priest's Cookbook
+ - Finger-Weaver's Cookbook
+ - Antiquity Scholar's Cookbook
+ - Fire Knight's Cookbook
+ - Mad Craftsman's Cookbook
+ - Tibia's Cookbook
+ - Grave Keeper's Cookbook
+ - Forager Brood Cookbook
+ - Igon's Cookbook
+ - Loyal Knight's Cookbook
+ - Ancient Dragon Knight's Cookbook
+ - Greater Potentate's Cookbook
+ 
