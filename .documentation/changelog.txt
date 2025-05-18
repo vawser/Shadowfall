@@ -1,0 +1,43 @@
+#---------------------------
+# Shadowfall
+#---------------------------
+# Event Flags:
+1031390000 Torrent Befriended
+1031390100 Player Setup Applied
+
+# Items:
+10100 Erdstone
+10160 Somberstone
+10900 Grave Glovewort
+10910 Ghost Glovewort
+
+# Start Map
+m61_46_40_00
+2046402020
+
+# TODO:
+Place vanilla Accessories
+Place vanilla Ashes of War
+Place vanilla Weapons
+Place vanilla Armor
+Place vanilla items (relevant ones only)
+Place new merchants - to sell consumable items
+ 
+#---------------------------
+# Changelog
+#---------------------------
+- You now start in Gravesite Plains.
+- Torrent may be befriended by interacting with him nearby the the first grace.
+- Added "Access Smithbox" option to the grace menu: allows the player to reinforce or duplicate ashes of war.
+- Removed the Shadow Realm Blessing and Revered Spirit Ash Blessing options.
+- Removed Scadutree Blessings (replaced with Golden Seeds).
+- Removed Revered Spirit Blessings (replaced with Sacred Tears).
+- Flask of Wonderous Physick placed near Three-Path Cross.
+- Rebalanced the area scalings to account for the fragment and ashes changes.
+- Flattened the cost for leveling.
+- Flattened reinforcement materials to:
+ - Erdstone (+1 to +25)
+ - Somberstone (+1 to +10)
+ - Grave Glovewort (+1 to +10)
+ - Ghost Glovewort (+1 to +10)
+- Distributed vanilla Crystal Tears in the DLC map.
